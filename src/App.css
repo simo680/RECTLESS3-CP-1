@@ -14,19 +14,18 @@
     font-size: 47px;
 }
 
-.white_main_text{
-    font-family: 'Open Sans', sans-serif;
-    color: white;
-    font-size: 36px;
-}
-
-
 .blue_second_text {
     font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     color: #22356F;
-    width: 740px;
+    
     height: 100px;
+}
+
+.white_main_text {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 36px;
 }
 
 .white_second_text {
